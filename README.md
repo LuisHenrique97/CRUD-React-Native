@@ -33,11 +33,11 @@ Esse app faz o consumo de uma API desenvolvida em NodeJS e Express
     
     5.1 - GET / developers
     5.2 - POST / developers
+    5.3 - DELETE / developers / {id}
 #### 6.  Funções não implementadas no Frontend
     
-    6.1 - Exclusão de um item especifico - DELETE / developers / {id}
-    6.2 - Edição de um item especifico - PUT / developers / {id}
-    6.3 - Busca de um item por passagem de parâmetros - GET / developers?
+    6.1 - Edição de um item especifico - PUT / developers / {id}
+    6.2 - Busca de um item por passagem de parâmetros - GET / developers?
 #### 7.  Funções não implementadas no Backend
     
     7.1  Busca de um item por passagem de parâmetros - GET / developers?
