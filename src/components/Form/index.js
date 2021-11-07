@@ -43,7 +43,7 @@ export default function Forms(){
     // Post Register - OK
     const handlePost = () => { 
       api.post('developers', {
-        name: {
+        dev: {
           nome: nome,
           sexo: sexo,
           idade: idade,
@@ -58,7 +58,7 @@ export default function Forms(){
     // Put Register - OK
     const handlePut = () => { 
       api.put('developers/1', {
-        name: {
+        dev: {
           nome: 'Pedro',
           sexo: 'Masculino',
           idade: 24,

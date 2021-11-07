@@ -30,16 +30,14 @@ Esse app faz o consumo de uma API desenvolvida em NodeJS e Express
     4.4  PUT / developers / {id}
     4.5  DELETE / developers / {id}
 #### 5.  No Frontend foram implementadas os seguintes endpoints:
-    
     5.1 - GET / developers
     5.2 - POST / developers
     5.3 - DELETE / developers / {id}
 #### 6.  Funções não implementadas no Frontend
-    
     6.1 - Edição de um item especifico - PUT / developers / {id}
     6.2 - Busca de um item por passagem de parâmetros - GET / developers?
 #### 7.  Funções não implementadas no Backend
     
     7.1  Busca de um item por passagem de parâmetros - GET / developers?
 
-#####      NÃO FORAM IMPLEMENTADOS TESTES UNITÁRIOS!
+#####      NÃO FORAM IMPLEMENTADOS TESTES UNITÁRIOS E INSERÇÃO DA APLICAÇÃO EM CONTAINERS DOCKER!
