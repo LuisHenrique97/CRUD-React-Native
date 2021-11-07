@@ -41,3 +41,4 @@ Esse app faz o consumo de uma API desenvolvida em NodeJS e Express
     7.1  Busca de um item por passagem de parâmetros - GET / developers?
 
 #####      NÃO FORAM IMPLEMENTADOS TESTES UNITÁRIOS E INSERÇÃO DA APLICAÇÃO EM CONTAINERS DOCKER!
+#####      AS IMAGENS COM A UI DO PROJETO ESTÃO NA PASTA 'images'
